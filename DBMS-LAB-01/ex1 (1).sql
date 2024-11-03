@@ -15,11 +15,11 @@ CREATE TABLE "Course"(
 
 INSERT INTO "St_info" ("st_no", "adm_date", "st_name", "st_age", "st_address") 
 VALUES 
-('1', '2024-10-21', 'Muhammad Ahsan', 21, 'nwb '),
-('2', '2024-10-22', 'Waqar Ahmed', 22, 'nwb'),
-('3', '2024-10-23', 'Muhammad Umar', 23, 'nwb'),
-('4', '2024-10-24', 'Abdul Rehman', 24, 'shapur'),
-('5', '2024-10-25', 'Amjad Ali', 25, 'nwb');
+('45', '2024-10-21', 'Muhammad Ahsan', 20, 'Nawabshah'),
+('66', '2024-10-22', 'Muhammad Umar', 21, 'Nawabshah'),
+('60', '2024-10-23', 'Taha', 20, 'Nawabshah'),
+('32', '2024-10-24', 'Abdul Rauf ', 20, 'Nawabshah'),
+('19', '2024-10-25', 'Irfan Ali', 19, 'Nawabshah');
 
 INSERT INTO "Course" ("c_no", "c_name", "c_teacher", "c_credit_hours")
 VALUES 
