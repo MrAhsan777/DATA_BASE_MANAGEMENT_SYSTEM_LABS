@@ -23,8 +23,8 @@ VALUES
 
 INSERT INTO "Course" ("c_no", "c_name", "c_teacher", "c_credit_hours")
 VALUES 
-('1', 'DB', 'Sir Awais', 3),
-('2', 'AI', 'Sir Akhtar', 4),
-('3', 'ML', 'Sir Saifullah', 4),
-('4', 'DS', 'Sir Farhan', 3),
-('5', 'Cyber Security', 'Sir Ahmed', 3);
+('1', 'Artificial Intelligence', 'Muhammad Owais', 12),
+('2', 'Cyber', 'Muhammad Zeeshan', 8),
+('3', 'English', 'Asghar', 5),
+('6', 'Static', 'Isha', 3),
+('23', 'Software', 'Umar', 20);
